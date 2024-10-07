@@ -6,18 +6,22 @@
   - [ゼロからのPython入門講座](https://www.python.jp/train/index.html): Colabの使い方、基本的な文法はここで学べます。
   - [Python環境構築ガイド](https://www.python.jp/install/install.html)：自分のPCで動かしたい人向け。
 
-* [Pythonプログラミング入門@東大数理・情報教育研究センター](https://utokyo-ipp.github.io/)
+### Colab前提で書かれている
 
-* [プログラミング演習 Python 2023@京大](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/285599)
+* [Pythonプログラミング入門@東大数理・情報教育研究センター](https://utokyo-ipp.github.io/) 詳しく書かれているので辞書的に使うのがよい。
+* [Python早見帳@東工大](https://chokkan.github.io/python/index.html)
 
+### 自分のPCで動かすことを前提に書かれている
+
+* [プログラミング演習 Python 2023@京大](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/285599) 自分のPCで動かすことが前提となっている。
 * [Pythonゼロからはじめるプログラミング@筑波大](https://mitani.cs.tsukuba.ac.jp/book_support/python/) 
 書籍もあるが学習用教材だけでも有用
 
-* [Python早見帳@東工大](https://chokkan.github.io/python/index.html)
-* [機械学習帳@東工大](https://chokkan.github.io/mlnote/index.html)　難しいが数理をきちんと追いたい人には有用
-
-* [医療とAI・ビッグデータ@東京医科歯科大 2023年度](https://www.tmd.ac.jp/labs/education/ds/)　
+### 機械学習までカバーする内容
+* [医療とAI・ビッグデータ@東京医科歯科大 2023年度](https://www.tmd.ac.jp/labs/education/ds/) 
 [2022年ワークショップ](https://github.com/TMDU-AI/workshop2022) 
+2023年版はColab向け、2022年版はPC用
+* [機械学習帳@東工大](https://chokkan.github.io/mlnote/index.html) 難しいが数理をきちんと追いたい人には有用
 
 ## よく使われるライブラリ
 
@@ -42,6 +46,8 @@
 ## データセット
 * [UC Irvine](https://archive.ics.uci.edu/) Taskから分類、回帰、クラスターなど目的に合うデータを探すことができ、
 pythonコードから直接ダウンロードできる仕組みもある。
+* [COVID-19 X-ray Dataset](https://github.com/agchung/Actualmed-COVID-chestxray-dataset)
+* [kaggle](https://www.kaggle.com/) 様々なデータとそれに対する他の人の解決方法を学べる
 
 ## その他
 * [マンガと学ぶデータビジュアライゼーション](https://kakeami.github.io/viz-madb/index.html)　少年マンガのデータを使って、データ可視化の方法が学べる。

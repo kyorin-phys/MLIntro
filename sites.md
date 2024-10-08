@@ -2,9 +2,9 @@
 
 ##  無料テキスト
 
-* [python.jp](https://www.python.jp/index.html)　
+* [python.jp](https://www.python.jp/index.html)
   - [ゼロからのPython入門講座](https://www.python.jp/train/index.html): Colabの使い方、基本的な文法はここで学べます。
-  - [Python環境構築ガイド](https://www.python.jp/install/install.html)：自分のPCで動かしたい人向け。
+  - [Python環境構築ガイド](https://www.python.jp/install/install.html):自分のPCで動かしたい人向け。
 
 ### Colab前提で書かれている
 
@@ -25,10 +25,10 @@
 
 ## よく使われるライブラリ
 
-* [numpy](https://numpy.org/ja/)　数学関数、数値計算全般で必須
-* [matplotlib](https://matplotlib.org/) グラフを描くためのツール　[チートシート](https://github.com/matplotlib/cheatsheets?tab=readme-ov-file)　[scientific visualization](https://github.com/rougier/scientific-visualization-book)
+* [numpy](https://numpy.org/ja/) 数学関数、数値計算全般で必須
+* [matplotlib](https://matplotlib.org/) グラフを描くためのツール [チートシート](https://github.com/matplotlib/cheatsheets?tab=readme-ov-file)　[scientific visualization](https://github.com/rougier/scientific-visualization-book)
 * [pandas](https://pandas.pydata.org/) excel,csvの表形式データの取り込みなどデータ解析に有用 [チートシート](https://github.com/pandas-dev/pandas/blob/main/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
-* [seaborn](https://seaborn.pydata.org/)　統計データの可視化
+* [seaborn](https://seaborn.pydata.org/) 統計データの可視化
 * [scikit-learn](https://scikit-learn.org/stable/index.html) 機械学習全般で使うツール
 * [tensorflow](https://www.tensorflow.org/?hl=ja) 多次元データ（テンソル）の処理
 * [tensorflow playground](https://playground.tensorflow.org/) コードを書かずに試せる
@@ -48,10 +48,12 @@
 pythonコードから直接ダウンロードできる仕組みもある。
 * [COVID-19 X-ray Dataset](https://github.com/agchung/Actualmed-COVID-chestxray-dataset)
 * [kaggle](https://www.kaggle.com/) 様々なデータとそれに対する他の人の解決方法を学べる
+* [医療系データセットまとめ](https://meditech-ai.com/dataset/)
+* [physionet](https://physionet.org/about/database/) 生理学的シグナルや医療データのコレクション
 
 ## その他
 * [pythontutor](https://pythontutor.com/python-compiler.html#mode=edit) ステップバイステップで実行しながら、変数の変化を見ることができる
-* [マンガと学ぶデータビジュアライゼーション](https://kakeami.github.io/viz-madb/index.html)　少年マンガのデータを使って、データ可視化の方法が学べる。
+* [マンガと学ぶデータビジュアライゼーション](https://kakeami.github.io/viz-madb/index.html) 少年マンガのデータを使って、データ可視化の方法が学べる。
 * [高校の先生向け資料](https://www.stat.go.jp/teacher/comp-learn-04.html)
 * [chatGPTを用いたコーディング習得方法](https://speakerdeck.com/keio_smilab/keio-univ-intro-to-ml-02-coding)
 * [滋賀大の動画教材](https://www.youtube.com/@%E6%95%B0%E7%90%86%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E6%95%99%E8%82%B2%E5%BC%B7%E5%8C%96/videos)

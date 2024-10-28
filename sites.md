@@ -51,9 +51,11 @@ pythonコードから直接ダウンロードできる仕組みもある。
 * [kaggle](https://www.kaggle.com/) 様々なデータとそれに対する他の人の解決方法を学べる
 * [医療系データセットまとめ](https://meditech-ai.com/dataset/)
 * [physionet](https://physionet.org/about/database/) 生理学的シグナルや医療データのコレクション
+* [tensorflow datasets](https://www.tensorflow.org/datasets?hl=ja)
 
 ## その他
 
+* [teachable machine](https://teachablemachine.withgoogle.com/) 画像をアップロードすると、機械学習モデルを作成できる。コーディング不要
 * [pythontutor](https://pythontutor.com/python-compiler.html#mode=edit) ステップバイステップで実行しながら、変数の変化を見ることができる
 * [マンガと学ぶデータビジュアライゼーション](https://kakeami.github.io/viz-madb/index.html) 少年マンガのデータを使って、データ可視化の方法が学べる。
 * [高校の先生向け資料](https://www.stat.go.jp/teacher/comp-learn-04.html)

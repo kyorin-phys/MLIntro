@@ -9,7 +9,7 @@
 ### Colab前提で書かれている
 
 * [Pythonプログラミング入門@東大数理・情報教育研究センター](https://utokyo-ipp.github.io/) 詳しく書かれているので辞書的に使うのがよい。
-* [Python早見帳@東工大](https://chokkan.github.io/python/index.html)
+* [Python早見帳@東工大(現：東京科学大)](https://chokkan.github.io/python/index.html)
 
 ### 自分のPCで動かすことを前提に書かれている
 
@@ -19,11 +19,11 @@
 
 ### 機械学習までカバーする内容
 
-* [医療とAI・ビッグデータ@旧東京医科歯科大 2023年度](https://www.tmd.ac.jp/labs/education/ds/)
+* [医療とAI・ビッグデータ@旧東京医科歯科大（現：東京科学大） 2023年度](https://www.tmd.ac.jp/labs/education/ds/)
 [2022年ワークショップ](https://github.com/TMDU-AI/workshop2022)
 2023年版はColab向け、2022年版はPC用
 * [医療とAIはじめの一歩](https://www.yodosha.co.jp/yodobook/book/9784758124188/) 上の内容を書籍化したもの。図書館にあり。
-* [機械学習帳@東工大](https://chokkan.github.io/mlnote/index.html) 難しいが数理をきちんと追いたい人には有用
+* [機械学習帳@東工大（現：東京科学大）](https://chokkan.github.io/mlnote/index.html) 難しいが数理をきちんと追いたい人には有用
 
 ## よく使われるライブラリ
 

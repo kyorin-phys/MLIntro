@@ -19,9 +19,10 @@
 
 ### 機械学習までカバーする内容
 
-* [医療とAI・ビッグデータ@東京医科歯科大 2023年度](https://www.tmd.ac.jp/labs/education/ds/)
+* [医療とAI・ビッグデータ@旧東京医科歯科大 2023年度](https://www.tmd.ac.jp/labs/education/ds/)
 [2022年ワークショップ](https://github.com/TMDU-AI/workshop2022)
 2023年版はColab向け、2022年版はPC用
+* [医療とAIはじめの一歩](https://www.yodosha.co.jp/yodobook/book/9784758124188/) 上の内容を書籍化したもの。図書館にあり。
 * [機械学習帳@東工大](https://chokkan.github.io/mlnote/index.html) 難しいが数理をきちんと追いたい人には有用
 
 ## よく使われるライブラリ

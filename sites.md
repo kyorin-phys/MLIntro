@@ -25,6 +25,13 @@
 * [医療とAIはじめの一歩](https://www.yodosha.co.jp/yodobook/book/9784758124188/) 上の内容を書籍化したもの。図書館にあり。
 * [機械学習帳@東工大（現：東京科学大）](https://chokkan.github.io/mlnote/index.html) 難しいが数理をきちんと追いたい人には有用
 
+### 図書館にある書籍
+* [大規模データで困ったときに、まず図を描くことからはじめる生命科学データ解析 : 解析のゴールドスタンダードを学び、生成AIとの対話でPython・Rを使いこなす(河野暢明編)](https://v3opac2.kyorin-u.ac.jp/webopac/BB10228909)
+
+* [独習Pythonバイオ情報解析 : 生成AI時代に活きるJupyter、NumPy、pandas、Matplotlib、Scanpyの基礎を身につけ、シングルセル、RNA-Seqデータ解析を自分の手で](https://v3opac2.kyorin-u.ac.jp/webopac/BB10226184)
+
+* [Pythonで実践 : 生命科学データの機械学習 : あなたのPCで最先端論文の解析レシピを体得できる!](https://v3opac2.kyorin-u.ac.jp/webopac/BB10211510)
+
 ## よく使われるライブラリ
 
 * [numpy](https://numpy.org/ja/) 数学関数、数値計算全般で必須

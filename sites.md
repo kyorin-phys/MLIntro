@@ -57,7 +57,6 @@
 pythonコードから直接ダウンロードできる仕組みもある。
 * [COVID-19 X-ray Dataset](https://github.com/agchung/Actualmed-COVID-chestxray-dataset)
 * [kaggle](https://www.kaggle.com/) 様々なデータとそれに対する他の人の解決方法を学べる
-* [医療系データセットまとめ](https://meditech-ai.com/dataset/)
 * [physionet](https://physionet.org/about/database/) 生理学的シグナルや医療データのコレクション
 * [tensorflow datasets](https://www.tensorflow.org/datasets?hl=ja)
 

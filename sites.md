@@ -65,7 +65,6 @@ pythonコードから直接ダウンロードできる仕組みもある。
 * [teachable machine](https://teachablemachine.withgoogle.com/) 画像をアップロードすると、機械学習モデルを作成できる。コーディング不要
 * [pythontutor](https://pythontutor.com/python-compiler.html#mode=edit) ステップバイステップで実行しながら、変数の変化を見ることができる
 * [マンガと学ぶデータビジュアライゼーション](https://kakeami.github.io/viz-madb/index.html) 少年マンガのデータを使って、データ可視化の方法が学べる。
-* [高校の先生向け資料](https://www.stat.go.jp/teacher/comp-learn-04.html)
 * [chatGPTを用いたコーディング習得方法](https://speakerdeck.com/keio_smilab/keio-univ-intro-to-ml-02-coding)
 * [滋賀大の動画教材](https://www.youtube.com/@%E6%95%B0%E7%90%86%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E6%95%99%E8%82%B2%E5%BC%B7%E5%8C%96/videos)
 * [google機械学習集中講座](https://developers.google.com/machine-learning/crash-course?hl=ja)

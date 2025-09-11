@@ -26,6 +26,7 @@
 * [機械学習帳@東工大（現：東京科学大）](https://chokkan.github.io/mlnote/index.html) 難しいが数理をきちんと追いたい人には有用
 
 ### 図書館にある書籍
+
 * [大規模データで困ったときに、まず図を描くことからはじめる生命科学データ解析 : 解析のゴールドスタンダードを学び、生成AIとの対話でPython・Rを使いこなす(河野暢明編)](https://v3opac2.kyorin-u.ac.jp/webopac/BB10228909)
 
 * [独習Pythonバイオ情報解析 : 生成AI時代に活きるJupyter、NumPy、pandas、Matplotlib、Scanpyの基礎を身につけ、シングルセル、RNA-Seqデータ解析を自分の手で](https://v3opac2.kyorin-u.ac.jp/webopac/BB10226184)
